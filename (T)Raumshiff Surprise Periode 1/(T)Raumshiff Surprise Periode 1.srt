@@ -3,12 +3,12 @@
 Translation: astrogirl, Corrections: shuushuuma
 
 2
-00:00:08,500 --> 00:00:11,417
+00:00:08,500 --> 00:00:12,071
 Corrections, Ajustments and Fixes:
 CEbbinghaus (with help from honeybrie)
 
 3
-00:00:11,683 --> 00:00:13,283
+00:00:12,114 --> 00:00:13,714
 www.subtitles.de
 
 4
@@ -43,7 +43,6 @@ www.subtitles.de
 00:01:02,161 --> 00:01:04,457
 Area 51
 <i>to hug and kiss me soon.</i>
-
 
 12
 00:01:04,458 --> 00:01:07,529
@@ -128,8 +127,8 @@ Queen Metapha, we are defenseless.
 
 30
 00:03:47,920 --> 00:03:53,120
-The attack met us unprepared.
-Our fleet has been destroyed.
+The attack met us unprepared,
+our fleet has been destroyed.
 
 31
 00:03:53,200 --> 00:03:57,120
@@ -220,12 +219,12 @@ We've never tested it.
 - Oh Goodness! Why those of all people!
 
 49
-00:05:00,200 --> 00:05:03,760
+00:04:59,857 --> 00:05:03,599
 <i>'Cause we're so pretty and so smart</i>
 <i>and so slim and so slender</i>
 
 50
-00:05:03,760 --> 00:05:07,120
+00:05:03,600 --> 00:05:06,486
 <i>We'll be Miss Waikiki!</i>
 
 51
@@ -238,27 +237,27 @@ We've never tested it.
 <i>And don't forget the soap!</i>
 
 53
-00:05:15,118 --> 00:05:18,440
+00:05:15,118 --> 00:05:18,571
 <i>One more time!</i>
 <i>And five, six, seven, eight</i>
 
 54
-00:05:18,640 --> 00:05:22,360
+00:05:18,572 --> 00:05:22,514
 <i>Five, six, seven, eight</i>
 <i>And touch and push!</i>
 
 55
-00:05:22,640 --> 00:05:26,320
+00:05:22,515 --> 00:05:26,400
 <i>And touch and push!</i>
 <i>And towel to the left!</i>
 
 56
-00:05:26,600 --> 00:05:30,480
+00:05:26,401 --> 00:05:30,242
 <i>And towel to the right!</i>
 <i>And don't forget the willy!</i>
 
 57
-00:05:30,760 --> 00:05:33,800
+00:05:30,243 --> 00:05:33,200
 <i>Dry the willy to the beat!</i>
 
 58
@@ -285,7 +284,7 @@ Depends on this crew of all things
 If you put it that way, senator Eric...
 
 63
-00:05:53,887 --> 00:05:55,486
+00:05:53,887 --> 00:05:54,886
 Yes!
 
 64
@@ -294,24 +293,24 @@ We have no idea where they are.
 No word from them in years!
 
 65
-00:06:01,001 --> 00:06:03,014
-We will just have to find them then
+00:06:01,001 --> 00:06:03,257
+Well we will just have to find them then
 
 66
 00:06:42,050 --> 00:06:43,492
 there they are!
 
 67
-00:06:45,371 --> 00:06:48,328
+00:06:45,157 --> 00:06:48,171
 I can't believe it
 How could they veer off course this far?
 
 68
-00:06:48,329 --> 00:06:49,756
+00:06:48,172 --> 00:06:49,457
 Contact them immediately!
 
 69
-00:06:49,757 --> 00:06:52,571
+00:06:49,458 --> 00:06:52,771
 - There are in the middle of nowhere!
 - Are you really surprised?.
 
@@ -325,7 +324,7 @@ Traumschiff Surprise, Captain Kork.
 It's way too chilly for this stardate.
 
 72
-00:07:08,080 --> 00:07:10,280
+00:07:08,080 --> 00:07:10,359
 All 40 men of my crew are in good health.
 
 73
@@ -374,16 +373,16 @@ You'll need a flawless waistline
 if you want to be Miss Waikiki!
 
 82
-00:07:48,520 --> 00:07:50,825
+00:07:48,441 --> 00:07:50,583
 Constantly does my back in though.
 
 83
-00:07:50,826 --> 00:07:52,717
+00:07:50,584 --> 00:07:52,771
 Since when do vulcanettes
 even have a spine?
 
 84
-00:07:52,720 --> 00:07:56,560
+00:07:52,772 --> 00:07:56,560
 - None of yours, you dumb cow!
 - He's not even a purebred Vulcanette.
 
@@ -397,16 +396,17 @@ even have a spine?
 <i>Gasp</i>
 
 87
-00:08:00,400 --> 00:08:03,833
+00:08:00,400 --> 00:08:03,757
 I am a Vulcanette Vulgaris.
-We can be up to 400 years old because we are
+We can be up to 400 years old
 
 88
-00:08:03,834 --> 00:08:06,160
+00:08:03,758 --> 00:08:06,160
+ because we are
 a type of Galapagos turtle!
 
 89
-00:08:06,160 --> 00:08:08,042
+00:08:06,160 --> 00:08:08,014
 - And what are you?
 - I'm the captain.
 
@@ -468,7 +468,7 @@ contacting the Surprise.
 
 102
 00:08:45,143 --> 00:08:49,800
-- But you have their coordinates!
+- But we have their coordinates!
 - Sure, but... we are only reaching
 their mailbox
 
@@ -591,3285 +591,3334 @@ Mr. Smock, come up here!
 It's wonderful up here!
 
 128
-00:10:34,080 --> 00:10:37,092
+00:10:34,080 --> 00:10:35,412
 - I can't! 
-- He can't. C'mon, flat out, doc!
+- He can't.
 
 129
-00:10:37,093 --> 00:10:39,200
+00:10:35,413 --> 00:10:36,986
+C'mon, full throttle, bottle!
+
+130
+00:10:36,987 --> 00:10:39,200
 - Is that all you got?
 - Geez, really
 
-130
+131
 00:10:39,300 --> 00:10:43,283
 - I can't get that fat Vulcanette up.
 
-131
+132
 00:10:49,600 --> 00:10:53,200
 - Hey, what's that?
 - This is unacceptable!
 
-132
+133
 00:10:55,550 --> 00:10:57,542
 - What's going on there?
 - Geez, really!
 
-133
+134
 00:11:01,880 --> 00:11:04,208
 - Hi!
 - That's mine.
 
-134
+135
 00:11:05,120 --> 00:11:08,533
 - Who left his roller skates lying here?
 - There!
 
-135
+136
 00:11:08,534 --> 00:11:12,442
 Miss Bora-Bora! Next time you'll
 have a one-week ban on cheesecake!
 
-136
+137
 00:11:12,443 --> 00:11:15,524
 And out with that chewing gum!
 Mr. Nasi, what's the situation?
 
-137
-00:11:15,525 --> 00:11:16,183
+138
+00:11:15,525 --> 00:11:16,328
 Ha, Captain!
 
-138
-00:11:16,186 --> 00:11:28,199
-(Nasi speaks Cantonese)
-
 139
-00:11:28,200 --> 00:11:31,080
-Mr Spock Did you understand
-what he just said?
+00:11:16,329 --> 00:11:18,343
+ᏗፈፈᎧᏒᎴᎥᏁᎶ ᏖᎧ ᏗᏝᏝ ᏦᏁᎧᏇᏁ ᏝᏗᏇᏕ ᎧᎦ ᏗᏉᎥᏗᏖᎥᎧᏁ,
 
 140
+00:11:18,344 --> 00:11:20,342
+ᏖᏂᏋᏒᏋ ᎥᏕ ᏁᎧ ᏇᏗᎩ Ꮧ ᏰᏋᏋ ᏕᏂᎧᏬᏝᎴ ᏰᏋ ᏗᏰᏝᏋ ᏖᎧ ᎦᏝᎩ.
+
+141
+00:11:20,343 --> 00:11:23,514
+
+ᎥᏖᏕ ᏇᎥᏁᎶᏕ ᏗᏒᏋ ᏖᎧᎧ ᏕᎷᏗᏝᏝ ᏖᎧ ᎶᏋᏖ ᎥᏖᏕ ᎦᏗᏖ ᏝᎥᏖᏖᏝᏋ ᏰᎧᎴᎩ ᎧᎦᎦ ᏖᏂᏋ ᎶᏒᎧᏬᏁᎴ.
+
+142
+00:11:23,516 --> 00:11:25,386
+ᏖᏂᏋ ᏰᏋᏋ, ᎧᎦ ፈᎧᏬᏒᏕᏋ, ᎦᏝᎥᏋᏕ ᏗᏁᎩᏇᏗᎩ ᏰᏋፈᏗᏬᏕᏋ
+
+143
+00:11:25,387 --> 00:11:27,671
+ᏰᏋᏋᏕ ᎴᎧᏁ'Ꮦ ፈᏗᏒᏋ ᏇᏂᏗᏖ ᏂᏬᎷᏗᏁᏕ ᏖᏂᎥᏁᏦ ᎥᏕ ᎥᎷᎮᎧᏕᏕᎥᏰᏝᏋ.
+
+144
+00:11:28,200 --> 00:11:31,080
+Mr Spuck Did you understand
+what he just said?
+
+145
 00:11:31,160 --> 00:11:35,642
 - Bora Bora stuck her tongue out at me!
 - That's no emergency, Mr. Nasi!
 
-141
+146
 00:11:35,643 --> 00:11:39,300
 Captain, there's something strange
 and a little scary going on.
 
-142
+147
 00:11:39,336 --> 00:11:43,491
 Someone sending an emergency signal.
 But its completely unreadable
 
-143
+148
 00:11:43,492 --> 00:11:46,358
 Emergency signal?
 Who'd do something like that?
 
-144
+149
 00:11:46,359 --> 00:11:49,133
 - Captain?
 - Careful, don't get too close.
 
-145
+150
 00:11:49,134 --> 00:11:53,920
 The automatic control system
 shows a low sliding factor.
 
-146
+151
 00:11:54,000 --> 00:11:57,858
 They use modulated pulsing vibrations...
 
-147
+152
 00:11:57,859 --> 00:12:00,117
 to push through to us.
 
-148
+153
 00:12:00,875 --> 00:12:04,400
 - Yeah, So?
-- Shall we let them in?
+- Shall I let them in Captain?
 
-149
+154
 00:12:04,401 --> 00:12:06,825
 Never
 We can't let it get so far!
 
-150
+155
 00:12:06,826 --> 00:12:09,492
 Pug speed!
 
-151
+156
 00:12:14,800 --> 00:12:17,200
 Pug speed!
 
-152
+157
 00:12:17,680 --> 00:12:22,008
 Captain, with all due respect,
 but pug speed's not possible right now.
 
-153
+158
 00:12:22,009 --> 00:12:23,926
 - Why not?
 - We have rodent damage.
 
-154
+159
 00:12:23,927 --> 00:12:25,479
 - Well. Let's call it a day.
 
-155
+160
 00:12:25,480 --> 00:12:28,480
 - Captain?
 - What now?
 
-156
+161
 00:12:28,560 --> 00:12:31,071
 I don't know what it is, but...
 
-157
+162
 00:12:31,072 --> 00:12:33,040
 it's heading toward us.
 
-158
+163
 00:12:34,960 --> 00:12:37,840
 Oh my, madness. What a stress!
 
-159
+164
 00:12:39,280 --> 00:12:41,200
 Read it!
 
-160
+165
 00:12:44,560 --> 00:12:46,800
 Red alert.
 
-161
+166
 00:12:46,880 --> 00:12:51,000
 Set course for Earth
 and contact the government immediately.
 
-162
+167
 00:12:51,001 --> 00:12:53,675
 No way! We're in the middle of
 training for the Miss Waikiki contest!
 
-163
+168
 00:12:53,676 --> 00:12:56,525
 We will have to
-prioritize here, right Mr. Spock?
+prioritize here, right Mr. Spuck?
 
-164
+169
 00:12:59,117 --> 00:13:01,358
 - Ah, Captain?
 - What is it?
 
-165
+170
 00:13:01,442 --> 00:13:04,617
 Disobeying orders will get
 your holidays cancelled.
 
-166
+171
 00:13:09,992 --> 00:13:12,392
 Majesty, we recieved a reply
 from the Surprise.
 
-167
+172
 00:13:12,408 --> 00:13:13,975
 Finally. What do they write?
 
-168
+173
 00:13:14,117 --> 00:13:16,233
 "Need something from the servo?"
 
-169
+174
 00:13:16,267 --> 00:13:18,482
 What do you think
 they mean with servo?
 
-170
+175
 00:13:18,483 --> 00:13:21,992
 - Maybe it's a code.
 - Ah! When do they get here?
 
-171
+176
 00:13:22,033 --> 00:13:23,800
 We have less than an hour!
 
-172
+177
 00:13:23,801 --> 00:13:26,667
 They could do it in 20 minutes
 with pug speed sir.
 
-173
+178
 00:13:26,668 --> 00:13:28,583
 But there's a problem your majesty.
 
-174
+179
 00:13:28,942 --> 00:13:30,050
 What kind of Problem?
 
-175
+180
 00:13:30,075 --> 00:13:31,183
 - Rodent damage.
 
-176
+181
 00:13:32,360 --> 00:13:36,960
 Yes, I know.
 I've been in treatment for a while.
 
-177
-00:13:40,440 --> 00:13:44,560
+182
+00:13:40,443 --> 00:13:44,413
 I hope they don't try to beam.
 It would kill them over that distance.
 
-178
-00:13:44,640 --> 00:13:48,120
-Get ready to beam! Activate!
-Activate!
+183
+00:13:44,414 --> 00:13:47,814
+Get ready to beam!
+<i>(both)</i> Activate!
 
-179
-00:13:48,200 --> 00:13:52,200
-To be beamed or be beamed not
+184
+00:13:47,815 --> 00:13:51,443
+If you are beamed, or are not,
 you need to be on the right spot!
 
-180
+185
 00:14:05,880 --> 00:14:07,480
 Shoo!
 
-181
+186
 00:14:07,920 --> 00:14:10,880
 - Ouch! Spotty, you mad?
 - Mutiny!
 
-182
-00:14:10,960 --> 00:14:16,400
+187
+00:14:10,960 --> 00:14:13,800
 - You'll have a single room on Honolulu!
- - Geez, really! - Those things happen on Economy.
+ - Geez, really!
 
-183
+188
+00:14:13,801 --> 00:14:16,479
+Those kinds of things
+ happen on Economy.
+
+189
 00:14:16,480 --> 00:14:20,920
 Economy? You stupid? I'm the captain!
 You'll beam me on Business!
 
-184
-00:14:21,000 --> 00:14:25,040
-- The battery's too weak for Business.
-- That beam goat probably...
+190
+00:14:20,921 --> 00:14:23,029
+The battery's too weak for Business.
 
-185
-00:14:25,120 --> 00:14:29,120
-- left the lights on again.
-- Careful, here he comes.
+191
+00:14:23,526 --> 00:14:26,128
+That beam goat probably
+left the lights on again.
 
-186
+192
 00:14:30,760 --> 00:14:32,760
-Aha! Out with that!
+Aha! Out with it!
 
-187
+193
 00:14:37,200 --> 00:14:40,200
 - What is that?
 - Friendship rings.
 
-188
+194
 00:14:40,280 --> 00:14:44,760
 From a befriended DA.
 That's all I'll say about that.
 
-189
+195
 00:14:48,040 --> 00:14:50,840
 And what's in your pants?
 
-190
-00:14:50,880 --> 00:14:54,160
-- None of yours!
-- Pants down. Pants down!
+196
+00:14:50,841 --> 00:14:52,154
+None of your business!
 
-191
-00:14:54,240 --> 00:14:55,840
+197
+00:14:52,155 --> 00:14:54,186
+- Pants down. - What?
+- Pants down!
+
+198
+00:14:54,187 --> 00:14:54,971
 Yehes!
 
-192
+199
 00:15:01,480 --> 00:15:04,120
 - Radiation protection.
 - What for?
 
-193
+200
 00:15:04,200 --> 00:15:08,160
 - Beaming always gets on my balls.
-- Captain, I can't work like that!
+- Captain, I can't work like this!
 
-194
-00:15:08,240 --> 00:15:11,240
+201
+00:15:08,240 --> 00:15:11,143
 Okay! But then you pay the cab!
 
-195
-00:15:15,920 --> 00:15:19,880
+202
+00:15:15,920 --> 00:15:19,271
 - What is your report?
 - Grab a seat, Regulator!
 
-196
-00:15:19,960 --> 00:15:23,960
+203
+00:15:19,272 --> 00:15:23,271
 Madam Metapha got real crazy
 boombastic plan! The plan is...
 
-197
+204
 00:15:24,760 --> 00:15:27,640
 The Plan is... the plan...
 
-198
+205
 00:15:27,760 --> 00:15:31,720
 Okay, I forget.
 Sorry, Regulator-man, listen!
 
-199
+206
 00:15:31,800 --> 00:15:36,440
 I write information on paper
 and call you back later. Ok?
 
-200
+207
 00:15:36,520 --> 00:15:39,320
 Walkie talkie, man!
 
-201
+208
 00:15:40,400 --> 00:15:44,400
 What was that? Since when
 do amateurs work for my empire?
 
-202
-00:15:44,880 --> 00:15:48,800
+209
+00:15:44,880 --> 00:15:48,529
 My Regulator, that one
 was a special offer at Rent-a-Spy.
 
-203
-00:15:48,880 --> 00:15:53,440
+210
+00:15:48,530 --> 00:15:53,613
 Along we got this cactus for free.
-I can send him back.
+I can send him back anytime.
 
-204
-00:15:53,520 --> 00:15:57,480
+211
+00:15:53,614 --> 00:15:57,480
 - Make it so. But we'll keep the cactus.
 - Yes, master.
 
-205
+212
 00:15:57,560 --> 00:16:01,560
 Jens, my trusty disciple.
 I have a mission for you. - What?
 
-206
+213
 00:16:01,840 --> 00:16:07,200
 Find out what those Earth maggots are
 planning, so I can finally crush them.
 
-207
-00:16:07,360 --> 00:16:10,240
+214
+00:16:07,360 --> 00:16:09,800
 Crushing! That's good!
 
-208
+215
 00:16:12,080 --> 00:16:16,840
 For the beautification of our ship!
 For the beautification of our ship!
 
-209
+216
 00:16:16,920 --> 00:16:19,920
 For the beautification of our ship!
 
-210
+217
 00:16:20,200 --> 00:16:24,080
 - For the beautification of our ship!
 - Well, yeah, okay.
 
-211
+218
 00:16:24,160 --> 00:16:27,040
 Give her something!
 
-212
-00:16:27,360 --> 00:16:30,360
+219
+00:16:27,360 --> 00:16:30,814
 Thanks!
 Save the whales! Find Nemo!
 
-213
+220
 00:16:31,080 --> 00:16:36,120
-- Got your passport? Closed the window?
+- Got your passport? - Sure
+- Closed the window?
 - Yes, I even closed the blinds.
 
-214
+221
 00:16:36,200 --> 00:16:40,200
 I told you not to do that!
 Everyone will know we're not at home!
 
-215
-00:16:40,280 --> 00:16:42,240
+222
+00:16:40,280 --> 00:16:41,929
 - Arguing again?
 - Go away.
 
-216
-00:16:42,320 --> 00:16:45,320
-- There's something on you head.
+223
+00:16:41,930 --> 00:16:45,243
+- Eww There's something on you head.
 - That is my travelling hat.
 
-217
-00:16:45,400 --> 00:16:49,400
-- Why do you need a travelling hat?
-- I'm paying the cab, so I'll come along.
+224
+00:16:45,244 --> 00:16:49,400
+- What do you need a travelling hat for?
+- I'm paying the cab, so I'm coming along.
 
-218
-00:16:49,480 --> 00:16:52,743
+225
+00:16:49,401 --> 00:16:52,314
 - And what's that?
 - That's Jutta. My reading lamp.
 
-219
-00:16:52,744 --> 00:16:57,480
+226
+00:16:52,315 --> 00:16:53,843
 - It's saved my life before.
-- What kind of junker is that?
 
-220
+227
+00:16:54,857 --> 00:16:57,559
+Oh Lord
+What kind of junker is that?
+
+228
 00:16:57,560 --> 00:17:01,000
 - The cheapest again, huh?
 - I like it.
 
-221
-00:17:44,440 --> 00:17:48,520
-- Who of you ordered a cab?
-- Me! That was me! That was my idea!
+229
+00:17:44,440 --> 00:17:48,429
+- One of you ordered a cab?
+- Me! That was me! It was my idea!
 
-222
-00:17:48,600 --> 00:17:51,880
-- Who of you guys wants in the back?
-- <i>(All)</i> Me! Me! Me!
+230
+00:17:48,430 --> 00:17:50,571
+Okay, which one of you
+guys wants the back?
 
-223
-00:17:51,960 --> 00:17:54,080
-I want the window seat!
+231
+00:17:50,572 --> 00:17:53,785
+<i>(All)</i> Me! Me! Me!
+- I want the window seat!
 
-224
+232
 00:18:00,880 --> 00:18:03,320
 - You cooing?
 - What?
 
-225
+233
 00:18:03,400 --> 00:18:06,360
 - You're cooing over him!
 - No, I'm not.
 
-226
+234
 00:18:06,440 --> 00:18:09,440
 - Then let him coo a little.
 - Shut up and look out the window.
 
-227
+235
 00:18:09,520 --> 00:18:13,120
 - So, where to?
 - Earth. City of Government.
 
-228
-00:18:13,200 --> 00:18:16,240
+236
+00:18:13,200 --> 00:18:15,743
 - Whoops! That'll be expensive.
 - Why's that?
 
-229
-00:18:16,320 --> 00:18:20,440
-Right now, it'd be easier to give
-someone plastic surgery during an earthquake
+237
+00:18:15,744 --> 00:18:19,557
+Well, Right now it'd be easier to give
+someone eye surgery during an earthquake
 
-230
-00:18:20,520 --> 00:18:24,640
+238
+00:18:19,558 --> 00:18:22,914
 than to arrive there in one piece.
-They're firing heavy ordnance down there.
+They're firing heavy ordnance that
 
-231
-00:18:24,720 --> 00:18:28,920
-Oh yes, life vests and parachutes
-should be somewhere below that seat.
+239
+00:18:22,915 --> 00:18:25,457
+makes a lightning strike feel like
+ a soft acupuncture
 
-232
+240
+00:18:25,458 --> 00:18:28,920
+oh yes, life vests and parachutes
+should be somewhere back there.
+
+241
 00:18:29,000 --> 00:18:33,200
 - Maybe we should get out of here?
 - He's just boasting.
 
-233
-00:18:33,280 --> 00:18:37,280
+242
+00:18:33,280 --> 00:18:37,100
 No problem. Just fly.
 I am expected by the government.
 
-234
-00:18:37,360 --> 00:18:42,520
+243
+00:18:37,101 --> 00:18:42,520
 My name is Captain Kork. Capricorn.
-I am Hermes. Messenger of the Gods.
+- I am Hermes. Messenger of the Gods.
 
-235
-00:18:42,600 --> 00:18:47,320
+244
+00:18:42,521 --> 00:18:45,414
 - And what is your name?
-- Rock. - Soft or Hard Rock?
+- My name is Rock.
 
-236
-00:19:09,440 --> 00:19:11,120
-Grab onto something!
+245
+00:18:45,415 --> 00:18:47,000
+Soft or Hard Rock?
 
-237
+246
+00:19:09,440 --> 00:19:10,629
+Hold on tight
+
+247
 00:19:14,720 --> 00:19:16,520
 <i>(All)</i> Yes!
 
-238
-00:19:27,360 --> 00:19:31,440
-You can now buy duty free goods.
-Anyone care for some music?
+248
+00:19:27,360 --> 00:19:30,129
+Okay ladies, You can now buy 
+duty free goods.
 
-239
-00:19:31,520 --> 00:19:33,000
+249
+00:19:30,130 --> 00:19:32,615
+Anyone care for some music?
 <i>(All)</i> Sure!
 
-240
+250
 00:19:33,040 --> 00:19:35,440
 <i>High, High, High-Ti-Tigh,</i>
 
-241
+251
 00:19:37,360 --> 00:19:40,240
 <i>Space-Taxi to the sky.</i>
 
-242
+252
 00:19:41,680 --> 00:19:43,600
 <i>High, High, High-Ti-Tigh,</i>
 
-243
+253
 00:19:45,520 --> 00:19:47,920
 <i>Space-Taxi to the sky.</i>
 
-244
+254
 00:19:47,920 --> 00:19:48,640
 <i>Space-Taxi to the sky.</i>
 
-245
+255
 00:19:49,080 --> 00:19:49,800
 <i>Come on.</i>
 
-246
+256
 00:19:49,880 --> 00:19:51,640
 <i>... My little heart... </i>
 <i>... so hot... </i>
 
-247
+257
 00:19:51,720 --> 00:19:53,680
 <i>... spread your legs apart... </i>
 <i> Check it out!</i>
 
-248
+258
 00:19:53,760 --> 00:19:57,520
 <i>... now let's start the show!</i>
 <i>Eenie meenie miny moe!</i>
 
-249
+259
 00:19:58,280 --> 00:20:00,360
 <i>High, High, High-Ti-Tigh,</i>
 
-250
+260
 00:20:03,960 --> 00:20:06,840
 <i>Space-Taxi to the sky.</i>
 
-251
+261
 00:20:06,840 --> 00:20:08,280
 <i>High, High...</i>
 
-252
+262
 00:20:10,680 --> 00:20:12,600
 What's the commotion?
 
-253
-00:20:14,520 --> 00:20:15,960
+263
+00:20:14,300 --> 00:20:15,743
 Okay girls, party's over.
 
-254
-00:20:18,320 --> 00:20:22,320
-I'll report that one!
-Spotty, keep that plate number in mind!
+264
+00:20:18,320 --> 00:20:22,186
+Those wankers are getting reported
+spotty, Note the plate number!
 
-255
+265
 00:20:28,240 --> 00:20:32,240
-- Anyone got ink eraser?
-- And I went to the washing bay yesterday.
+- Anyone got whiteout?
+- Why did I even bother washing the car?
 
-256
+266
 00:20:40,520 --> 00:20:44,520
-Just stop it!
-I'll be getting spots from all this stress!
+Calm this ride down
+i'm getting spots from all this stress!
 
-257
-00:21:04,840 --> 00:21:08,840
-Blow slowly, girls.
-You'll get dizzy.
+267
+00:21:04,843 --> 00:21:08,843
+Blow slowly girls,
+you'll get dizzy.
 
-258
+268
 00:21:13,720 --> 00:21:17,720
-Okay, now we have a problem.
-This is the captain. Don't mind the shaking.
+Okay, now we have a real problem.
+This is the captain, don't mind the shaking.
 
-259
-00:21:17,840 --> 00:21:21,880
+269
+00:21:17,721 --> 00:21:21,443
 We only lost our shields,
 one thruster went down...
 
-260
-00:21:21,960 --> 00:21:26,040
+270
+00:21:21,444 --> 00:21:26,040
 - and the plasma tank is leaking.
 - I noticed that! The general condition of your...
 
-261
+271
 00:21:26,120 --> 00:21:27,960
 Sit down, man!
 
-262
+272
 00:21:32,680 --> 00:21:35,680
 <i>Take the third exit at the roundabout</i>
 
-263
+273
 00:21:48,640 --> 00:21:52,080
 <i>You are approaching the exit.</i>
 Geez, finally!
 
-264
+274
 00:21:55,280 --> 00:21:59,360
 <i>Turn right after 500 metres.</i>
 Not so good right now.
 
-265
-00:22:00,920 --> 00:22:03,920
+275
+00:22:00,920 --> 00:22:03,171
 You took the wrong turn!
 
-266
+276
 00:22:18,440 --> 00:22:21,440
 C'mon, baby, don't let me down!
 
-267
+277
 00:22:46,840 --> 00:22:50,840
 - Could you turn off the air conditioning?
 - Could you shut up for a second?
 
-268
+278
 00:22:53,160 --> 00:22:56,160
 <i>When possible please make a U turn</i>
 - Good idea!
 
-269
+279
 00:23:00,000 --> 00:23:02,000
 <i>Please wait.</i>
 
-270
+280
 00:23:02,600 --> 00:23:05,400
 <i>Please hold the line.</i>
 
-271
+281
 00:23:23,080 --> 00:23:25,880
 <i>You are approaching your destination.</i>
 
-272
+282
 00:23:27,240 --> 00:23:30,040
 Ensalada mista, Baby!
 
-273
+283
 00:23:38,280 --> 00:23:42,280
 Don't be foolish.
 Your city is completely surrounded.
 
-274
+284
 00:23:42,360 --> 00:23:46,360
 My battlecookie squadron will
 be ready to attack in a few minutes.
 
-275
+285
 00:23:46,440 --> 00:23:50,600
 If you haven't signed the
 unconditional surrender by then
 
-276
+286
 00:23:50,680 --> 00:23:54,200
-I will destroy you.
+I will destroy you once and for all
 
-277
+287
 00:23:54,280 --> 00:23:58,360
-It is futile. We have to surrender
+it is futile. We have to surrender
 while we still have a chance.
 
-278
-00:23:58,440 --> 00:24:03,400
-You are right. We cannot
-wait any longer for the crew of the Surprise.
+288
+00:23:58,440 --> 00:24:02,586
+You are right, we cannot wait
+any longer for the crew of the Surprise.
 
-279
+289
 00:24:12,560 --> 00:24:16,560
 - That must be them.
 - Heyho! Is the cheese cake ready?
 
-280
+290
 00:24:18,040 --> 00:24:21,040
 Inform the queen!
 
-281
+291
 00:24:25,320 --> 00:24:29,280
 - That was in style back then.
 - I can't read that.
 
-282
+292
 00:24:29,360 --> 00:24:31,360
 - Rock.
 - Rock what?
 
-283
+293
 00:24:31,440 --> 00:24:33,960
 - Rock Thats-It.
 - What?
 
-284
-00:24:34,040 --> 00:24:38,640
+294
+00:24:34,040 --> 00:24:38,300
 My ex-wife's name is Thats.
-Mine's It. That's it.
+Mine's It. Rock That's it.
 
-285
+295
 00:24:42,440 --> 00:24:46,720
 Thank you, Mr. Thats-It.
 You have been of great help to us.
 
-286
+296
 00:24:46,800 --> 00:24:49,840
 What? And who'll
 pay for the damage?
 
-287
+297
 00:24:49,920 --> 00:24:53,840
 - A new paint job will do, I think.
 - Yes! Pink Camouflage!
 
-288
+298
 00:24:53,920 --> 00:24:58,040
 What? That was a 45 Space Cruiser,
 a lowrider with sport suspender!
 
-289
+299
 00:24:58,120 --> 00:25:02,280
 Trace elements made of Burmese titanium!
 It made double speed of light
 
-290
+300
 00:25:02,360 --> 00:25:06,560
 in less than 1.5 seconds!
-That kind of machine cannot be painted
+That kind of machine does not get painted
 
-291
+301
 00:25:06,640 --> 00:25:11,240
-- in Pink Camouflage!
+- Pink Camouflage!
 - Try to be sensible, Mr. Thats-It.
 
-292
+302
 00:25:11,440 --> 00:25:15,840
-- Our problems are of a different nature.
+- We have completely different problems.
 - Well, I don't care about your problems!
 
-293
+303
 00:25:15,920 --> 00:25:20,040
 All I care about is that
 my cab is totalled because I had to
 
-294
+304
 00:25:20,120 --> 00:25:24,440
 - bring you these three hoes!
 - I bet he's that small.
 
-295
-00:25:24,520 --> 00:25:28,800
-You guys pay for the repairs
-and I'm out of here. Okay?
+305
+00:25:24,520 --> 00:25:27,243
+This is very simple, 
+you guys pay for the repairs...
 
-296
-00:25:30,400 --> 00:25:33,720
+306
+00:25:27,244 --> 00:25:28,714
+And I'm out of here.
+
+307
+00:25:28,715 --> 00:25:31,596
 And until that happens,
-I'll just sit here, on this chair, and wait.
+I'm sitting here on this chair
 
-297
-00:25:33,720 --> 00:25:38,040
-Well, I don't know about you,
-but I could do with some coffee now.
+308
+00:25:33,720 --> 00:25:38,086
+well, I don't know about you guys,
+but I could do with some coffee right about now.
 
-298
+309
 00:26:53,440 --> 00:26:56,240
 - Chocolate?
 - Nooo!
 
-299
-00:27:02,600 --> 00:27:07,800
+310
+00:27:02,600 --> 00:27:07,343
 - It's bitter chocolate by Rosetto.
 - It's the brand with the Rosetto-Moor.
 
-300
-00:27:08,000 --> 00:27:09,800
+311
+00:27:08,000 --> 00:27:09,357
 I'm...
 
-301
+312
 00:27:10,080 --> 00:27:12,960
 not ready for that.
 
-302
-00:27:13,960 --> 00:27:17,960
+313
+00:27:13,700 --> 00:27:17,786
 - Who is that?
-- A cab driver. We still need to pay him.
+- A cab driver, we still owe him money
 
-303
-00:27:19,160 --> 00:27:22,080
-Ladies and Gentlemen...
+314
+00:27:19,157 --> 00:27:22,086
+ladies and Gentlemen...
 
-304
+315
 00:27:22,160 --> 00:27:26,120
 The chairman of the
 intercontinental security counsil.
 
-305
+316
 00:27:29,880 --> 00:27:31,800
 Majesty!
 
-306
+317
 00:27:31,800 --> 00:27:34,680
 Esteemed senators!
 
-307
+318
 00:27:34,680 --> 00:27:40,440
 300 years ago,
 on July 22nd, 2004 at precisely 5.35 pm,
 
-308
+319
 00:27:40,440 --> 00:27:43,880
 a UFO crashed into
 the desert of Nevada.
 
-309
+320
 00:27:43,960 --> 00:27:48,400
 In that UFO, our scientists found
 information from a galaxy far far away.
 
-310
+321
 00:27:48,480 --> 00:27:52,480
 It was only with that knowledge
 that we were able to colonize Mars.
 
-311
+322
 00:27:52,560 --> 00:27:57,400
 We could prevent the colonization
 of Mars and thus, this war,
 
-312
+323
 00:27:57,480 --> 00:28:00,400
 by travelling into the year 2004
 
-313
+324
 00:28:00,480 --> 00:28:03,360
 and destroying implied UFO.
 
-314
+325
 00:28:05,600 --> 00:28:08,600
 But how can the UFO be completely neutralized?
 
-315
+326
 00:28:08,680 --> 00:28:11,520
 With this Swiss laser!
 
-316
+327
 00:28:11,600 --> 00:28:14,600
 Know a nice place to go clubbing?
 
-317
+328
 00:28:14,720 --> 00:28:17,040
 - Captain?
 - Yes, right, absolutely!
 
-318
+329
 00:28:17,120 --> 00:28:21,880
 - That's how I would do it.
 - Good. Because it's you who will be doing it.
 
-319
+330
 00:28:21,960 --> 00:28:25,000
 - What? - That'll be great.
 - We? No dice!
 
-320
+331
 00:28:25,080 --> 00:28:29,040
 - That's totally impossible!
 - We don't have time for something like that.
 
-321
+332
 00:28:29,120 --> 00:28:33,680
 - We need to prepare for the Miss Waikiki contest.
 - If you refuse this mission,
 
-322
+333
 00:28:33,760 --> 00:28:37,760
 - there will never be a Miss Waikiki contest again.
 - Bring in the time machine!
 
-323
+334
 00:28:55,920 --> 00:28:59,920
 - Spotty, Smock, follow me.
 - I want the window seat!
 
-324
+335
 00:29:00,000 --> 00:29:04,000
 Shouldn't we tell them the
 machine has never been tested?
 
-325
+336
 00:29:07,360 --> 00:29:10,360
 Captain...
 you are our last best hope.
 
-326
+337
 00:29:11,640 --> 00:29:16,240
 - What? I'd rather send a monkey to do this.
 - Animal welfare wouldn't let us.
 
-327
+338
 00:29:16,320 --> 00:29:22,120
 You should put on these glasses.
 Time travel is bad for your eyes.
 
-328
+339
 00:29:22,200 --> 00:29:26,280
 The ignotion key will start the machine.
 With these coordinates
 
-329
+340
 00:29:26,360 --> 00:29:29,360
 you set destination time and place.
 
-330
+341
 00:29:32,200 --> 00:29:35,280
 - Stop it or we'll leave you here!
 - Confirm by pressing the green button.
 
-331
+342
 00:29:40,800 --> 00:29:44,800
 This button activates a countdown.
 Everything else is in this book.
 
-332
+343
 00:29:44,880 --> 00:29:49,360
 Don't lose it! You'll never be able
 to return without it. And don't waste energy.
 
-333
+344
 00:29:50,280 --> 00:29:54,360
 - The manual!
 - Spotty, travelling with you is no fun at all!
 
-334
+345
 00:29:54,440 --> 00:29:56,440
 I'll get it!
 
-335
+346
 00:29:59,120 --> 00:30:03,360
 The Cookie squadron launches a
 large-scale attack! All exits are blocked!
 
-336
+347
 00:30:03,440 --> 00:30:08,640
 We must get you to a safe place.
 We have no choice. Get onto the time machine!
 
-337
+348
 00:30:12,960 --> 00:30:15,960
 I'll stay here until my cab has been repaired!
 
-338
+349
 00:30:16,880 --> 00:30:20,800
 Senator! There's something
 you need to know!
 
-339
+350
 00:30:20,880 --> 00:30:22,680
 What is it?
 
-340
+351
 00:30:24,000 --> 00:30:26,880
 I forgot to pack my bra.
 
-341
+352
 00:30:28,720 --> 00:30:31,440
 - Here. Take mine.
 - Thank you!
 
-342
+353
 00:30:31,480 --> 00:30:33,400
 It's okay.
 
-343
+354
 00:30:34,520 --> 00:30:37,400
 Press the start button!
 
-344
+355
 00:30:37,520 --> 00:30:40,120
 Got it!
 
-345
+356
 00:30:42,440 --> 00:30:44,440
 Spotty! Heel!
 
-346
+357
 00:30:48,040 --> 00:30:49,840
 Maybe I'll find a better place to sit.
 
-347
+358
 00:30:59,640 --> 00:31:02,520
 - Yee, here we go!
 - Spotty!
 
-348
+359
 00:31:05,120 --> 00:31:08,720
 This will have serious consequences!
 
-349
+360
 00:31:09,200 --> 00:31:13,160
 - What are you doing here? - I wonder, too.
 - You're messing everything up!
 
-350
+361
 00:31:13,240 --> 00:31:17,240
 - Does this thing have a seat heater?
 - No, but I sat there just a moment ago.
 
-351
+362
 00:31:17,280 --> 00:31:21,120
 Spotty is sneaking out of this again!
 Now it'll be single room, definitely!
 
-352
+363
 00:31:21,320 --> 00:31:24,120
 Brace yourself! Glasses on!
 
-353
+364
 00:31:58,200 --> 00:32:01,560
 - I am glad to see you, Lord Shawl.
 - Boot licker.
 
-354
+365
 00:32:01,560 --> 00:32:05,720
 - What's that?
 - Rosetto's bitter chocolate.
 
-355
+366
 00:32:05,800 --> 00:32:09,800
 - It's the brand with the Rosetto-Moor.
 - Thanks. Kick off.
 
-356
+367
 00:32:11,880 --> 00:32:15,880
 The government building of the Earth alliance
 was successfully taken over. - Excellent.
 
-357
+368
 00:32:15,960 --> 00:32:19,960
 - All politicians were locked into the washhouse.
 - Perfect.
 
-358
+369
 00:32:20,040 --> 00:32:24,800
 - Metapha was able to escape on a time machine.
 - What? How could you let that happen, asshole?
 
-359
+370
 00:32:24,880 --> 00:32:30,560
 Yes. You're right. But we were able
 to seize the manual of the time machine.
 
-360
+371
 00:32:31,000 --> 00:32:32,600
 Goooood.
 
-361
+372
 00:32:34,120 --> 00:32:37,120
 I'm going to make a phone call.
 
-362
+373
 00:32:53,760 --> 00:32:55,360
 Wow!
 
-363
+374
 00:32:55,560 --> 00:32:59,160
 - It actually worked!
 - Unbelievable.
 
-364
+375
 00:32:59,480 --> 00:33:03,480
 - Now we can...
 - Prevent my wedding! - What?
 
-365
+376
 00:33:03,560 --> 00:33:07,640
 - We could see Elvis live!
 - The end of the world is near
 
-366
+377
 00:33:07,720 --> 00:33:11,680
 - and you think of Elvis?
 - I dreamed of football just now.
 
-367
+378
 00:33:11,760 --> 00:33:15,840
 I dreamed I was a pastry cook and
 shaped a quarterback from marzipan.
 
-368
+379
 00:33:15,920 --> 00:33:19,920
 I stuck a lucky coin on top of it
 and put it into the shop window next to the tarts.
 
-369
+380
 00:33:30,520 --> 00:33:33,560
 - What country did you enter?
 - I didn't enter anything.
 
-370
+381
 00:33:33,640 --> 00:33:37,520
 - Captain! Get up! Look, a pony!
 - Where are we?
 
-371
+382
 00:33:37,760 --> 00:33:39,840
 A petting zoo!
 
-372
+383
 00:33:43,720 --> 00:33:47,600
 - Dammit!
 - Oh my! Rowdies everywhere!
 
-373
+384
 00:33:49,280 --> 00:33:52,160
 July 22nd, 1304. A short miss.
 
-374
+385
 00:34:02,360 --> 00:34:06,480
 - Neat thing you got us into.
 - I didn't do anything.
 
-375
+386
 00:34:06,560 --> 00:34:09,560
 Then maybe you should do something now.
 
-376
+387
 00:34:11,520 --> 00:34:15,520
 Keep cool, princess.
 We'll be gone in a second.
 
-377
+388
 00:34:31,360 --> 00:34:35,960
 Dear Romans! We came from
 the future to save the world!
 
-378
+389
 00:34:36,280 --> 00:34:39,160
 Smocky, take a picture.
 
-379
+390
 00:34:42,280 --> 00:34:45,160
 Say cheeese cake!
 
-380
+391
 00:34:46,680 --> 00:34:49,080
 Witchcraft! Catch them!
 
-381
+392
 00:34:57,240 --> 00:34:59,640
 I'm out of here!
 
-382
+393
 00:36:12,957 --> 00:36:14,700
 - Who is he?
 -Who?
 
-383
+394
 00:36:14,701 --> 00:36:16,329
 - He!
 - Ah, I see.
 
-384
+395
 00:36:16,440 --> 00:36:18,360
 Who is he?
 
-385
+396
 00:36:18,360 --> 00:36:21,114
 Speak, you sleazy son of a bitch!
 
-386
+397
 00:36:22,200 --> 00:36:24,329
 - What did you do to the woman?
 
-387
+398
 00:36:24,700 --> 00:36:28,000
 Now tell me, Is he of noble blood?
 
-388
+399
 00:36:29,880 --> 00:36:33,920
 My name is Til Schweiger, and
 I make my living as an actor.
 
-389
+400
 00:36:34,000 --> 00:36:37,186
 It's not much, but it's enough for
 two weeks of vacation in a year.
 
-390
+401
 00:36:37,343 --> 00:36:39,914
 And what do you do all day long,
 throne farter?
 
-391
+402
 00:36:42,240 --> 00:36:45,957
 Mylord, he is a liar. This
 man is certainly not an actor.
 
-392
+403
 00:36:46,200 --> 00:36:50,640
 But he has got guts. I was
 told he was a remarkable fighter.
 
-393
+404
 00:36:50,720 --> 00:36:55,160
 An important tournament takes
 place tomorrow. My honor is at stake,
 
-394
+405
 00:36:55,240 --> 00:37:00,360
 but my best horseman was
 overrun by a Crusade last week. Nasty thing.
 
-395
+406
 00:37:00,440 --> 00:37:04,880
 - How about putting up danger signs?
 - Do we have danger signs?
 
-396
+407
 00:37:04,960 --> 00:37:08,920
 No, Sire, but the virgin Adrea
 has some spare crosses.
 
-397
+408
 00:37:09,000 --> 00:37:13,800
 - Yes! Put up Adrea's Crosses!
 - Hey, great idea! Can I go now?
 
-398
+409
 00:37:13,880 --> 00:37:17,880
 It is his fault my
 subsitute fell from his horse.
 
-399
+410
 00:37:18,000 --> 00:37:21,920
 Hence, he will have to win
 the tournament for me tomorrow.
 
-400
+411
 00:37:22,000 --> 00:37:26,360
 If he does, he is free. If he doesn't,
 he and his entourage will be hanged
 
-401
+412
 00:37:26,440 --> 00:37:29,440
 and the woman will be mine.
 Cheers!
 
-402
+413
 00:37:30,160 --> 00:37:35,840
 But Sire! Only those of noble blood
 may take part in the tournaments!
 
-403
+414
 00:37:36,600 --> 00:37:38,400
 That's right.
 
-404
+415
 00:37:40,720 --> 00:37:43,600
 Hereby I knight you Sire of
 
-405
+416
 00:37:43,680 --> 00:37:45,680
 of Behynde.
 
-406
+417
 00:37:58,200 --> 00:38:03,960
 Those Pigs travelled to the past to
 eradicate our existence.
 
-407
+418
 00:38:04,057 --> 00:38:05,914
 This is bad news.
 
-408
+419
 00:38:06,000 --> 00:38:07,729
 Well, yes. Sure
 
-409
+420
 00:38:07,730 --> 00:38:10,457
 But I also have good news for you.
 
-410
+421
 00:38:10,614 --> 00:38:12,160
 Go ahead.
 
-411
+422
 00:38:12,360 --> 00:38:16,360
 This book contains a 
 time machine construction manual.
 
-412
+423
 00:38:17,040 --> 00:38:21,342
 - I turned my moped into one.
 - And? Does it work?
 
-413
+424
 00:38:21,343 --> 00:38:23,099
 Like you wouldn't believe, master!
 
-414
+425
 00:38:23,100 --> 00:38:25,414
 Here is the proof. I just
 got tomorrow's newspaper.
 
-415
+426
 00:38:25,614 --> 00:38:30,500
 Regulator snatches the earth.
 Four eyes bludgeoned with frying pan for treason.
 
-416
+427
 00:38:30,700 --> 00:38:31,643
 Poor pig
 
-417
+428
 00:38:32,360 --> 00:38:36,320
 - They won't write about me.
 - For this to come true
 
-418
+429
 00:38:36,400 --> 00:38:40,400
 you have to stop them!
 Can you trace their route?
 
-419
+430
 00:38:40,480 --> 00:38:45,000
 Sure. I'll sniff them
 out with my sniff radar.
 
-420
+431
 00:38:45,080 --> 00:38:47,680
 - Jens!
 - Master?
 
-421
+432
 00:38:47,880 --> 00:38:51,480
 There is something you need to know.
 
-422
+433
 00:38:52,520 --> 00:38:53,640
 What?
 
-423
+434
 00:38:53,640 --> 00:38:58,680
 Roughly 30 years ago
 a baby came along.
 
-424
+435
 00:38:59,486 --> 00:39:03,000
 Without sock and without shoe.
 
-425
+436
 00:39:03,001 --> 00:39:06,357
 And that, dear Jens, that was you.
 
-426
+437
 00:39:06,680 --> 00:39:09,040
 You lost me, my Regulator.
 
-427
+438
 00:39:09,520 --> 00:39:12,760
 I... am... your father!
 
-428
+439
 00:39:13,600 --> 00:39:17,914
 Sure thing Daddy. You can count on me. 
 cyanara!
 
-429
+440
 00:39:59,600 --> 00:40:04,120
 By the way, the Lady's dress
 suits you remarkably well.
 
-430
+441
 00:40:04,200 --> 00:40:08,200
 She wore it just yesterday
 while being busy with the jester.
 
-431
+442
 00:40:08,360 --> 00:40:11,960
 - You have a wife? - I had.
 - Where is she now?
 
-432
+443
 00:40:12,040 --> 00:40:15,240
 - Hanging outside.
 - You hanged her outside? Why?
 
-433
+444
 00:40:15,320 --> 00:40:18,320
 For the lack of indoor gallows.
 
-434
+445
 00:40:20,160 --> 00:40:24,880
 - Two pizzas No. 33 for William the Endmost!
 - To the Knight of Behynde!
 
-435
+446
 00:40:42,200 --> 00:40:46,280
 Say, what is your star sign?
 Well, your zodiac.
 
-436
+447
 00:40:46,360 --> 00:40:49,480
 - You do have a zodiac, don't you?
 - Well, yes... Virgo.
 
-437
+448
 00:40:49,560 --> 00:40:53,480
 - A virgin!
 - A virgin? Where? Finally! Bring her here!
 
-438
+449
 00:40:53,560 --> 00:40:57,440
 I want one, too! Here first!
 I was here before him! Shut up!
 
-439
+450
 00:40:58,160 --> 00:41:02,760
 - Virgo goes wonderfully with Butterfly.
 - That's no zodiac.
 
-440
+451
 00:41:02,840 --> 00:41:07,200
 Yes, it is. In the Vulcanette
 horoscope. I am a Butterfly.
 
-441
+452
 00:41:07,280 --> 00:41:11,400
 We only have insects for zodiacs.
 House Fly, Tse Tse Fly,
 
-442
+453
 00:41:11,480 --> 00:41:15,440
 Blowfly, Mayfly...
 or the Wasp!
 
-443
+454
 00:41:15,520 --> 00:41:19,520
 - Want to see my ascendant?
 - No, keep it where it is.
 
-444
+455
 00:41:19,600 --> 00:41:23,680
 - Save that for your boyfriend.
 - What? He's not my boyfriend.
 
-445
+456
 00:41:23,760 --> 00:41:27,800
 He's just my captain.
 He'd get lost without me all the time.
 
-446
+457
 00:41:27,880 --> 00:41:31,920
 - Besides, he has no idea what women want.
 - Neither do I. You have to be handsome...
 
-447
+458
 00:41:32,000 --> 00:41:35,920
 Beauty is not that important.
 What you need is humor.
 
-448
+459
 00:41:36,000 --> 00:41:40,080
 I have! A doctor tells his patient
 "I have good news and bad news."
 
-449
+460
 00:41:40,160 --> 00:41:44,240
 "Good: You have one day to live."
 "Bad: I forgot to tell you..."
 
-450
+461
 00:41:44,320 --> 00:41:46,920
 "yesterday."
 
-451
+462
 00:41:47,240 --> 00:41:50,120
 Forgot... yesterday...
 
-452
+463
 00:41:50,560 --> 00:41:53,160
 Not bad.
 
-453
+464
 00:41:54,880 --> 00:42:00,560
 Do you want to know the magical
 question that sets every woman's heart on fire?
 
-454
+465
 00:42:03,560 --> 00:42:06,560
 Want to go shopping?
 
-455
+466
 00:42:06,720 --> 00:42:12,280
 Shopping? And I always thought
 women liked men who play the piano.
 
-456
+467
 00:42:24,120 --> 00:42:29,200
 <i>Baby, I'm strollin' on top of the sky.</i>
 
-457
+468
 00:42:29,640 --> 00:42:32,960
 <i>Why don't you, don't you, don't you,</i>
 
-458
+469
 00:42:33,080 --> 00:42:37,840
 <i>Baby, come along with me?</i>
 
-459
+470
 00:42:38,120 --> 00:42:40,080
 <i>Why don't you come along with me?</i>
 
-460
+471
 00:42:42,720 --> 00:42:46,720
 I don't think I will ever
 marry. I wouldn't, at that.
 
-461
+472
 00:42:46,800 --> 00:42:51,000
 Neither would I anymore.
 My ex-wife took everything.
 
-462
+473
 00:42:51,080 --> 00:42:54,080
 My house, my dog, my job...
 
-463
+474
 00:42:54,720 --> 00:42:56,760
 even my hole puncher.
 
-464
+475
 00:42:56,840 --> 00:42:59,443
 Oh my, now you can't even file anything away!
 
-465
+476
 00:42:59,444 --> 00:43:03,040
 Oh well. Let me show you something. Here.
 
-466
+477
 00:43:03,920 --> 00:43:06,960
 My little pink pal is the only thing left.
 
-467
+478
 00:43:07,040 --> 00:43:11,471
 Oh, you little piggy you!
 Say, can I touch it?
 
-468
+479
 00:43:11,500 --> 00:43:12,714
 Of course.
 
-469
+480
 00:43:13,114 --> 00:43:18,043
 - Oh my, it's all shrivelled up!
 - Well, it's been in there for a while.
 
-470
+481
 00:43:18,120 --> 00:43:22,000
 - Yeah, I can see that.
 - Come, push it.
 
-471
+482
 00:43:23,000 --> 00:43:28,200
 - I'd like to have one myself.
 - Come on, push it harder.
 
-472
+483
 00:43:33,880 --> 00:43:37,880
 My, where is it? My, what's
 it doing? My, there it is!
 
-473
+484
 00:43:37,960 --> 00:43:42,280
 - I don't want to make it burst.
 - It won't. My dog used to chew on it.
 
-474
+485
 00:43:50,960 --> 00:43:56,240
 The joust: two knights try to push each
 other off the horse with a lance.
 
-475
+486
 00:43:56,240 --> 00:44:00,171
 If your friend goes down,
 he loses and we will be married by tonight.
 
-476
+487
 00:44:00,172 --> 00:44:02,671
 I don't think you two
 would make a good couple.
 
-477
+488
 00:44:08,400 --> 00:44:11,057
 - What's wrong?
 - Well, how did we sleep last night?
 
-478
+489
 00:44:11,058 --> 00:44:15,920
 - I didn't get a wink of sleep.
 - Yes, I imagine.
 
-479
+490
 00:44:16,000 --> 00:44:19,000
 - What's that on your foot?
 - A shoe.
 
-480
+491
 00:44:19,440 --> 00:44:23,400
 - Where did you get that from?
 - My room mate had his leg hacked off
 
-481
+492
 00:44:23,480 --> 00:44:27,440
 for no apparent reason.
 I felt sorry and bought his shoe.
 
-482
+493
 00:44:27,520 --> 00:44:30,000
 - Shut up, you witches!
 - Your the witch
 
-483
+494
 00:44:30,080 --> 00:44:32,760
 Dear Lords, dear Ladys,
 dear mob!
 
-484
+495
 00:44:32,840 --> 00:44:36,160
 Our dearest patronizing host, who is
 delighted to see you all have come here...
 
-485
+496
 00:44:36,240 --> 00:44:40,200
 Duke William the Endmost of Shareholding!
 
-486
+497
 00:44:48,240 --> 00:44:51,120
 Dear Lords, dear Ladys!
 
-487
+498
 00:44:51,400 --> 00:44:55,920
 Sir Further-Winston-Fattenberry of
 West Firstwhistle-Minster-Shatwood Castle,
 
-488
+499
 00:44:56,000 --> 00:44:58,886
 Third Count of Yorkshire Forest
 Wooden-Lancester-Puddingham...
 
-489
+500
 00:44:58,887 --> 00:45:01,567
 Not Puddingham It's Pettingham, you idiot!
 
-490
+501
 00:45:01,767 --> 00:45:03,080
 Ah... oh... Right.
 
-491
+502
 00:45:03,600 --> 00:45:07,960
 Sir Further-Winston-Fattenberry of
 West Firstwhistle-Minster-Shatwood Castle,
 
-492
+503
 00:45:08,040 --> 00:45:12,040
 Third Count of Yorkshire Forest
 Wooden-Lancester-Pettingham,
 
-493
+504
 00:45:12,400 --> 00:45:15,280
 Sir Richard Carsharing,
 
-494
+505
 00:45:15,429 --> 00:45:17,100
 can not be with us today.
 
-495
+506
 00:45:17,214 --> 00:45:18,329
 (Crowd) aaaaaaawwwwwwwwwwww
 
-496
+507
 00:45:18,500 --> 00:45:22,840
 Well well, the plague.
 Stepping into the breach...
 
-497
+508
 00:45:23,440 --> 00:45:26,440
 the mysterious Black Knight!
 
-498
+509
 00:45:31,457 --> 00:45:35,800
 Competing against him, under
 the crest of Duke William...
 
-499
+510
 00:45:35,880 --> 00:45:38,880
 the Sassy Sire of Behynde!
 
-500
+511
 00:45:51,360 --> 00:45:55,920
 I worked on that outfit all night.
 But it was worth it.
 
-501
+512
 00:45:56,000 --> 00:45:59,000
 Loose screw, huh?
 
-502
+513
 00:46:04,600 --> 00:46:07,120
 - Jens Shawl!
 - Jawohl.
 
-503
+514
 00:46:07,200 --> 00:46:11,200
 I will beat the Sassy Sire for you.
 
-504
+515
 00:46:11,829 --> 00:46:13,171
 Faster you sow
 
-505
+516
 00:46:13,440 --> 00:46:16,440
 - You have to cancel the tournament!
 - Too late.
 
-506
+517
 00:46:19,800 --> 00:46:22,800
 In case you care at all, I don't feel well.
 
-507
+518
 00:46:23,040 --> 00:46:27,040
 I have to go bisi-bisi since last night,
 but they don't even have toilet paper here.
 
-508
+519
 00:46:36,040 --> 00:46:37,400
 Calm you sow!
 
-509
+520
 00:46:48,800 --> 00:46:53,200
 - You need to raise your lance, Rocky!
 - There. You're cooing. You said "Rocky"!
 
-510
+521
 00:47:12,560 --> 00:47:16,520
 If the Black Knight wins we're all doomed!
 
-511
+522
 00:47:16,600 --> 00:47:19,840
 - It's not the end of the world.
 - You have no idea!
 
-512
+523
 00:47:31,360 --> 00:47:33,160
 Jawohl!
 
-513
+524
 00:47:34,200 --> 00:47:39,000
 - I can't take it much longer!
 - Neither can I. Too bad about that outfit!
 
-514
+525
 00:47:39,080 --> 00:47:43,320
 My bladder is about to explode
 and you act like a halibut in the heat!
 
-515
+526
 00:47:43,400 --> 00:47:45,000
 Rock!
 
-516
+527
 00:47:46,240 --> 00:47:50,240
 - Didn't hurt at all.
 - Think about our future!
 
-517
+528
 00:47:50,320 --> 00:47:54,320
 Don't worry, princess.
 Let me handle this.
 
-518
+529
 00:47:54,400 --> 00:47:57,871
 He could as well resign.
 Your bosom will be mine!
 
-519
+530
 00:47:57,914 --> 00:48:02,443
 I'll rather go and puke
 then let you touch me, Duke.
 
-520
+531
 00:48:03,086 --> 00:48:07,014
 <i>Put your Lanze in the air,</i>
 <i>and rock it like you just don't care!</i>
 
-521
+532
 00:48:07,015 --> 00:48:09,760
 <i>Everybody say, oh yeahl</i>
 <i>Oh yeah!</i>
 
-522
+533
 00:48:31,560 --> 00:48:37,280
 <i>They asked me how I knew</i>
 
-523
+534
 00:48:37,880 --> 00:48:41,400
 <i>My true love was true.</i>
 
-524
+535
 00:48:45,880 --> 00:48:49,960
 <i>I of course replied,</i>
 
-525
+536
 00:48:50,120 --> 00:48:53,760
 <i>"Something here inside</i>
 
-526
+537
 00:48:53,971 --> 00:48:56,920
 <i>cannot be denied."</i>
 
-527
+538
 00:49:13,040 --> 00:49:15,360
 Jawohl! Yes! Jawohl!
 
-528
+539
 00:49:15,360 --> 00:49:18,640
 Yes! We're getting married!
 Where's the priest?
 
-529
+540
 00:49:18,720 --> 00:49:21,520
 Hey, don't touch! Hands off! Heh!
 
-530
+541
 00:49:24,040 --> 00:49:28,040
 - What are you planning?
 - Some little fireworks for our wedding.
 
-531
+542
 00:49:28,880 --> 00:49:32,880
 I know how you feel.
 I fell from the bunk bed when I was a kid.
 
-532
+543
 00:49:32,960 --> 00:49:35,960
 Excuse me! He's lying on top of my bladder.
 
-533
+544
 00:49:36,520 --> 00:49:38,960
 Hey, wait!
 
-534
+545
 00:49:38,960 --> 00:49:40,400
 What?
 
-535
+546
 00:49:40,400 --> 00:49:43,760
 Oh Willy!
 Do you want to make me happy?
 
-536
+547
 00:49:45,200 --> 00:49:46,640
 Yeah, definitely!
 
-537
+548
 00:49:46,914 --> 00:49:49,886
 Jawohl! Higher you pigs!
 
-538
+549
 00:49:50,320 --> 00:49:55,520
 - I'm ready, Willy-Boy!
 - Good! Move a little together, my dear!
 
-539
+550
 00:49:57,920 --> 00:50:00,840
 They're getting away!
 Let me down, assholes!
 
-540
+551
 00:50:00,920 --> 00:50:03,520
 What a picture!
 
-541
+552
 00:50:03,880 --> 00:50:04,920
 Stop it!
 
-542
+553
 00:50:05,120 --> 00:50:08,120
 - Come on baby, where's the cheese cake?
 - In here!
 
-543
+554
 00:50:08,800 --> 00:50:12,080
 Cheeeeese cake!
 
-544
+555
 00:50:12,720 --> 00:50:14,720
 Oh crap.
 
-545
+556
 00:50:20,720 --> 00:50:23,600
 - They're gone!
 - William's a sorcerer.
 
-546
+557
 00:50:26,000 --> 00:50:28,880
 Well, burn him!
 
-547
+558
 00:50:30,800 --> 00:50:33,760
 Now I'll go and meet my Lord
 because of that bosom I adored.
 
-548
+559
 00:50:52,120 --> 00:50:56,880
 - What happened?
 - You were unconscious. We're there.
 
-549
+560
 00:50:57,240 --> 00:51:01,080
 - Hey! Hey, stop pulling!
 - Wishi-wishi, bisi-bisi
 
-550
+561
 00:51:01,160 --> 00:51:04,160
 - Well, look!
 - Oh thank God!
 
-551
+562
 00:51:07,320 --> 00:51:11,760
 - C'mon, hurry, will ya?
 - Yeah. Look, someone forgot his pants in here.
 
-552
+563
 00:51:11,880 --> 00:51:14,760
 - Heave ho!
 - Man, this is heavy!
 
-553
+564
 00:51:15,440 --> 00:51:19,040
 That armoire goes up to the bedroom.
 
-554
+565
 00:51:20,280 --> 00:51:24,280
 Be careful! These are the
 furniture of our new sheriff.
 
-555
+566
 00:51:24,360 --> 00:51:28,360
 - It all has to be perfect tomorrow.
 - Sure, mayor.
 
-556
+567
 00:51:28,880 --> 00:51:30,080
 Oh, do be careful!
 
-557
+568
 00:51:31,040 --> 00:51:33,920
 I dreamed of soccer just now.
 
-558
+569
 00:51:34,280 --> 00:51:39,160
 I was a quarterback made of marzipan.
 Someone stuck a lucky coin to my head and
 
-559
+570
 00:51:39,240 --> 00:51:42,240
 put me into the shop window next to the tarts.
 
-560
+571
 00:51:43,360 --> 00:51:46,960
 - Who was that?
 - Some gay pastry cook.
 
-561
+572
 00:51:54,520 --> 00:51:55,840
 Whoa whoa whoa!
 
-562
+573
 00:52:09,360 --> 00:52:13,320
 - And where are the others?
 - Piddling.
 
-563
+574
 00:52:13,400 --> 00:52:18,280
 That was close. I wouldn't even wish
 Bora-Bora such a full bladder.
 
-564
+575
 00:52:18,360 --> 00:52:22,800
 Shouldn't have had all that asparagus.
 Well, how do you like it?
 
-565
+576
 00:52:22,880 --> 00:52:27,160
 - This outfit is so totally old fashioned.
 - Poppycock and fiddlesticks!
 
-566
+577
 00:52:27,240 --> 00:52:31,640
 - We won't stand out in this national costume.
 - You're jingling.
 
-567
+578
 00:52:31,720 --> 00:52:36,440
 I have a world to save!
 Watch me, this is how you move in Nevada.
 
-568
+579
 00:52:36,520 --> 00:52:39,520
 Shoulders up, swing your hips.
 
-569
+580
 00:52:39,600 --> 00:52:43,600
 Think of Johnny Weir
 and don't forget your breathing!
 
-570
+581
 00:52:43,680 --> 00:52:45,440
 Try it!
 
-571
+582
 00:52:50,520 --> 00:52:52,000
 Forget it!
 
-572
+583
 00:53:21,514 --> 00:53:25,314
 Ah, fresh asparagus soup!
 
-573
+584
 00:53:25,400 --> 00:53:28,280
 It's still warm!
 
-574
+585
 00:53:45,640 --> 00:53:48,320
 - Smocky.
 - Leave me alone.
 
-575
+586
 00:53:48,400 --> 00:53:52,080
 - How far is it to the ground?
 - I don't know.
 
-576
+587
 00:53:52,160 --> 00:53:55,160
 - Well, please look.
 - I can't.
 
-577
+588
 00:53:55,200 --> 00:54:00,560
 - This is the right place, but we're in the wrong time.
 - Can you repair the time machine?
 
-578
+589
 00:54:00,560 --> 00:54:03,920
 - Not without the manual.
 - What do we do now?
 
-579
+590
 00:54:03,920 --> 00:54:08,720
 First of all, find the girls.
 Strange. I can't get rid of the feeling...
 
-580
+591
 00:54:08,720 --> 00:54:12,480
 - they're somewhere around here.
 - Last warning, Smock!
 
-581
+592
 00:54:12,560 --> 00:54:16,560
 - How far is it to the ground?
 - Forget it! - Are we being mutinous?
 
-582
+593
 00:54:16,640 --> 00:54:20,640
 - That Rock guy is a bad influence for you!
 - You're just being jealous!
 
-583
+594
 00:54:22,560 --> 00:54:26,520
 - Be careful, will you!
 - Hey. The princess is worrying about me.
 
-584
+595
 00:54:26,600 --> 00:54:30,560
 - What do you mean?
 - Well, if a woman worries about a man...
 
-585
+596
 00:54:30,640 --> 00:54:36,600
 - I'm worrying about our mission!
 - And I'm worried about my cab and my money.
 
-586
+597
 00:54:36,680 --> 00:54:38,320
 What?
 
-587
+598
 00:54:38,400 --> 00:54:43,440
 - But we're stuck here without the time machine!
 - You should have been more careful.
 
-588
+599
 00:54:43,520 --> 00:54:46,749
 - Oh, so it's my fault now?
 - I couldn't I was unconscious.
 
-589
+600
 00:54:46,949 --> 00:54:47,960
 - That's so typical!
 
-590
+601
 00:54:48,040 --> 00:54:50,640
 You're a jealous gratin!
 
-591
+602
 00:54:52,680 --> 00:54:57,080
 You'll look down now, or I'll tell
 Mr. Rock that you have a green testicle!
 
-592
+603
 00:54:57,160 --> 00:54:58,160
 You're such a bully!
 
-593
+604
 00:55:01,080 --> 00:55:05,720
 - I took the rap for you, Lady!
 - And who kicked that leather lump into my face?
 
-594
+605
 00:55:05,800 --> 00:55:11,760
 If it wasn't for me, you'd be
 a juicy steak at the stake!
 
-595
+606
 00:55:11,960 --> 00:55:15,600
 - Do you have a boyfriend?
 - What? - So you don't.
 
-596
+607
 00:55:15,680 --> 00:55:18,680
 I'll tell you something. You like me.
 
-597
+608
 00:55:19,200 --> 00:55:23,200
 - This is not about you! Got it?
 - Excuse me, can I get my sports section back?
 
-598
+609
 00:55:27,920 --> 00:55:30,800
 - Mayor Roony!
 - That's all wrong!
 
-599
+610
 00:55:31,480 --> 00:55:34,400
 - More to the left!
 - Mayor Roony!
 
-600
+611
 00:55:34,480 --> 00:55:38,080
 A telegraph from Roswell! It's horrible!
 
-601
+612
 00:55:38,960 --> 00:55:41,960
 God be with us!
 The former sheriff...
 
-602
+613
 00:55:42,480 --> 00:55:46,520
 isn't cold and stiff yet,
 and they're already coming back to town!
 
-603
+614
 00:55:46,600 --> 00:55:49,200
 They're on the 12 o'clock train.
 
-604
+615
 00:55:52,800 --> 00:55:55,640
 They're back!
 
-605
+616
 00:56:16,600 --> 00:56:21,720
 - You have your mother's pulpy porridge butt!
 - Travelling with you is no fun at all!
 
-606
+617
 00:56:21,800 --> 00:56:26,080
 - I'm never taking you along again!
 - So what? There are plenty of people
 
-607
+618
 00:56:26,160 --> 00:56:30,160
 - who'd love to take me along!
 - Who? That Rock-bottom maybe?
 
-608
+619
 00:56:30,240 --> 00:56:34,280
 Yeah! Our knees touched,
 and I got the feeling he 
 
-609
+620
 00:56:34,360 --> 00:56:38,360
 wanted it too! Stop smirking!
 Maybe I'll go to 
 
-610
+621
 00:56:38,440 --> 00:56:42,440
 - Mykonos with him next year!
 - I'm not giving you a holiday.
 
-611
+622
 00:56:42,520 --> 00:56:46,800
 Sheriff Shorty? Ah, I thought
 you'd arrive tomorrow. Anyway. Good luck!
 
-612
+623
 00:56:46,880 --> 00:56:49,880
 And you're bigger than I expected!
 
-613
+624
 00:56:52,320 --> 00:56:56,880
 - And which one is the sheriff?
 - The one with the star, Jim.
 
-614
+625
 00:56:56,960 --> 00:57:00,960
 - Then I'll go and save the world without you!
 - Ha, you can't!
 
-615
+626
 00:57:01,040 --> 00:57:04,320
 - Yes I can. - No you can't.
 - Yes I can. - No you can't.
 
-616
+627
 00:57:04,400 --> 00:57:06,640
 - Yes I can. - No you can't.
 - Yes I can.
 
-617
+628
 00:57:06,720 --> 00:57:10,720
 - I don't believe this.
 - No you can't. I have the Swiss laser!
 
-618
+629
 00:57:10,800 --> 00:57:12,800
 You sly Vulcanette cow!
 
-619
+630
 00:57:14,520 --> 00:57:18,520
 - Hey, are you batty?
 - I believe Shorty was shorter last time we met him.
 
-620
+631
 00:57:18,840 --> 00:57:22,840
 Well, it's been what, 10 years?
 He could have grown.
 
-621
+632
 00:57:28,040 --> 00:57:29,360
 Dammit!
 
-622
+633
 00:57:29,880 --> 00:57:32,880
 Game over!
 Daddy will be delighted!
 
-623
+634
 00:57:35,760 --> 00:57:37,200
 He's got a moped!
 
-624
+635
 00:57:40,640 --> 00:57:41,760
 Oh no, not again.
 
-625
+636
 00:57:51,760 --> 00:57:52,960
 Crap!
 
-626
+637
 00:57:58,640 --> 00:58:00,760
 What's wrong?
 
-627
+638
 00:58:10,080 --> 00:58:12,800
 Get a grip, asshole!
 
-628
+639
 00:58:22,960 --> 00:58:27,440
 John, you hold the sheriff off my back.
 Jim, wash your hands and go inside.
 
-629
+640
 00:58:28,880 --> 00:58:32,720
 Sorry, John.
 I can't stay outside to play.
 
-630
+641
 00:58:32,720 --> 00:58:37,040
 Don't worry. I found two new friends already.
 
-631
+642
 00:58:37,040 --> 00:58:40,400
 - Shoes! - Yes, boss.
 - John, you have ten minutes.
 
-632
+643
 00:58:40,400 --> 00:58:45,200
 We have a pub to sell
 to the Apaches later today.
 
-633
+644
 00:58:45,720 --> 00:58:48,440
 - We are from the...
 - People Village!
 
-634
+645
 00:58:48,520 --> 00:58:52,520
 - We are peace-loving Village People.
 - Ladies and Se�oritas!
 
-635
+646
 00:58:52,600 --> 00:58:57,200
 >From Medicine Bow, Wyoming,
 it's your host for tonight: Mr. Santa Maria!
 
-636
+647
 00:58:58,160 --> 00:59:01,760
 - Isn't he gorgeous?
 - I'm your biggest fan!
 
-637
+648
 00:59:02,240 --> 00:59:06,880
 Welcome to "The Santa Show"!
 Our guest for today is Jim.
 
-638
+649
 00:59:06,960 --> 00:59:08,840
 Hello, Jim.
 
-639
+650
 00:59:08,920 --> 00:59:12,840
 - What did you bring us there, Jim?
 - Rheuma blankets, boss.
 
-640
+651
 00:59:12,920 --> 00:59:15,800
 Isn't that wonderful?
 
-641
+652
 00:59:17,120 --> 00:59:19,760
 <i>Schnuffi-Puffi...</i>
 <i>Buy one, get one freel</i>
 
-642
+653
 00:59:19,840 --> 00:59:23,200
 <i>Schnuffi-Puffi...</i>
 <i>Schnuffi-Puffi!</i>
 
-643
+654
 00:59:23,320 --> 00:59:28,880
 <i>Schnuffi-Puffi,</i>
 <i>and your wild ride's going on!</i>
 
-644
+655
 00:59:29,000 --> 00:59:31,000
 Now on sale!
 
-645
+656
 00:59:43,760 --> 00:59:47,360
 - I think he's cooing over you.
 - Really?
 
-646
+657
 00:59:49,040 --> 00:59:51,640
 C'mon! Draw!
 
-647
+658
 00:59:52,280 --> 00:59:55,160
 - What?
 - Your pistol.
 
-648
+659
 00:59:55,320 --> 00:59:57,800
 It's his first time!
 
-649
+660
 01:00:01,000 --> 01:00:03,000
 Geez, thanks!
 
-650
+661
 01:00:06,440 --> 01:00:10,400
 - I can't get it out!
 - Now you see what it's like.
 
-651
+662
 01:00:10,480 --> 01:00:12,680
 - Are you alright, captain?
 - Yes, but...
 
-652
+663
 01:00:12,760 --> 01:00:16,680
 - Where's Rock?
 - I'm really getting tired of hearing that name!
 
-653
+664
 01:00:16,760 --> 01:00:19,720
 Who of you ordered a cab?
 
-654
+665
 01:00:19,800 --> 01:00:23,800
 - Thank God, there he is!
 - "Thank God, there he is!"
 
-655
+666
 01:00:27,160 --> 01:00:30,160
 - You are a real hero!
 - I know.
 
-656
+667
 01:00:36,320 --> 01:00:40,520
 - But we don't drink champagne.
 - The chief of the Apaches does.
 
-657
+668
 01:00:42,800 --> 01:00:47,120
 - Oh look! Someone's lying there!
 - Yes, that's my John.
 
-658
+669
 01:01:15,920 --> 01:01:19,920
 My Regulator.
 Your shuttle to Earth is ready.
 
-659
+670
 01:01:20,000 --> 01:01:23,200
 - Has Lord Shawl reported in yet?
 - No, my Regulator!
 
-660
+671
 01:01:24,560 --> 01:01:27,920
 But we captured this man.
 He pretended to be mowing the lawn.
 
-661
+672
 01:01:27,920 --> 01:01:32,240
 He actually is part of the crew
 that managed to flee with the time machine.
 
-662
+673
 01:01:32,240 --> 01:01:36,560
 Interesting. I'm sure he can tell
 us something about their plans.
 
-663
+674
 01:01:36,560 --> 01:01:40,440
 I'm not saying anything!
 I've already lost my reading lamp to this war!
 
-664
+675
 01:01:40,520 --> 01:01:44,480
 - It can't get worse, can it!
 - Then there is nothing I can do for you.
 
-665
+676
 01:01:44,560 --> 01:01:46,320
 You fool!
 
-666
+677
 01:01:47,960 --> 01:01:49,440
 Hermes!
 
-667
+678
 01:01:51,600 --> 01:01:55,680
 Commence a press release:
 High treason! Spectacle wearer...
 
-668
+679
 01:01:55,760 --> 01:01:59,120
 - slain with a pan.
 - Aye, my Regulator.
 
-669
+680
 01:01:59,200 --> 01:02:04,760
 We have conquered Earth.
 The Era of Darkness shall begin.
 
-670
+681
 01:02:44,200 --> 01:02:49,120
 - I think this is our exit!
 - I don't know how to slow this thing down!
 
-671
+682
 01:02:56,840 --> 01:02:57,840
 Jump off!
 
-672
+683
 01:03:12,880 --> 01:03:17,920
 - Great! Now I got sand in my ears!
 - No surprise, your ears are quite ample.
 
-673
+684
 01:03:22,440 --> 01:03:26,320
 - Are you alright, princess?
 - I think so.
 
-674
+685
 01:03:51,720 --> 01:03:53,520
 Better.
 
-675
+686
 01:03:59,240 --> 01:04:03,240
 That's our sofa!
 Why is it smouldering?
 
-676
+687
 01:04:03,520 --> 01:04:07,600
 What are you doing with our sofa?
 It's not a toy, you know!
 
-677
+688
 01:04:07,680 --> 01:04:11,680
 Now look how that looks!
 It's so totally wrecked!
 
-678
+689
 01:04:11,880 --> 01:04:15,960
 Do you even know who I am?
 My name is Juergen Thorsten Kork,
 
-679
+690
 01:04:16,040 --> 01:04:20,120
 captain of the Traumschiff Surprise.
 I have the responsibility for this sofa
 
-680
+691
 01:04:20,200 --> 01:04:25,120
 as well as for a crew of over 40 men.
 And it's not always easy to make ends meet!
 
-681
+692
 01:04:31,520 --> 01:04:35,120
 He repaired the time sofa!
 
-682
+693
 01:04:36,960 --> 01:04:38,760
 Your turn!
 
-683
+694
 01:04:44,800 --> 01:04:46,400
 Okay!
 
-684
+695
 01:04:47,120 --> 01:04:48,920
 You...
 
-685
+696
 01:04:49,300 --> 01:04:50,629
 You again.
 
-686
+697
 01:04:58,960 --> 01:05:01,960
 - What is that?
 - A corkscrew.
 
-687
+698
 01:05:03,320 --> 01:05:04,800
 A magnifying glass.
 
-688
+699
 01:05:15,560 --> 01:05:16,640
 No!
 
-689
+700
 01:05:18,360 --> 01:05:21,160
 Your time is up!
 
-690
+701
 01:05:30,360 --> 01:05:31,920
 The UFO!
 
-691
+702
 01:05:45,880 --> 01:05:48,880
 Time to say goodbye, french fry.
 
-692
+703
 01:05:51,560 --> 01:05:53,160
 Rock!
 
-693
+704
 01:05:57,800 --> 01:06:00,400
 Want to...
 
-694
+705
 01:06:01,960 --> 01:06:04,920
 Want to go shopping?
 
-695
+706
 01:06:05,000 --> 01:06:07,000
 Yes I do!
 
-696
+707
 01:06:11,880 --> 01:06:17,840
 - See! Your time to coo is over, Smocky.
 - I can still keep him on the back burner.
 
-697
+708
 01:06:21,000 --> 01:06:25,000
 - There is something you have to know.
 - What is it?
 
-698
+709
 01:06:25,920 --> 01:06:27,600
 I...
 
-699
+710
 01:06:27,680 --> 01:06:31,720
 - I really suck when it comes to sex.
 - Oh Rock! So do I!
 
-700
+711
 01:06:43,840 --> 01:06:47,840
 - Gee, what a cute thingy!
 - Careful, Smock, it might bite.
 
-701
+712
 01:07:00,440 --> 01:07:03,440
 Maybe I'll talk to him.
 
-702
+713
 01:07:03,680 --> 01:07:06,280
 - Hello, stranger!
 - Huh?
 
-703
+714
 01:07:06,720 --> 01:07:09,600
 You friend or foe?
 
-704
+715
 01:07:11,640 --> 01:07:13,440
 - Ah!
 - Ah!
 
-705
+716
 01:07:13,920 --> 01:07:16,800
 - A friend!
 - A friend!
 
-706
+717
 01:07:22,360 --> 01:07:26,360
 - Oh, I think the poor thing has catched a cold.
 - Wait a sec.
 
-707
+718
 01:07:27,040 --> 01:07:29,920
 You're a really good boy, aren't you?
 
-708
+719
 01:07:43,040 --> 01:07:48,240
 - Look, now you broke it! You dumb cow!
 - That's not enough, I'm afraid.
 
-709
+720
 01:07:59,360 --> 01:08:03,360
 - We did it!
 - That's all? This will change the future?
 
-710
+721
 01:08:03,440 --> 01:08:07,440
 Even small things can have a big effect.
 
-711
+722
 01:08:07,520 --> 01:08:11,760
 I don't know about you, but
 I'm really homesick now.
 
-712
+723
 01:08:11,840 --> 01:08:13,240
 - Yes!
 - Yes!
 
-713
+724
 01:08:17,520 --> 01:08:21,800
 - I wonder what awaits us at home.
 - Hopefully a fresh cheese cake
 
-714
+725
 01:08:21,880 --> 01:08:24,760
 in Honolulu, right, Smocky?
 
-715
+726
 01:08:27,760 --> 01:08:31,760
 - There's not enough energy. Overload.
 - Overload?
 
-716
+727
 01:08:32,120 --> 01:08:36,040
 - We're too heavy. - What?
 - We'll make 200 years, tops.
 
-717
+728
 01:08:36,120 --> 01:08:39,040
 - We're 76.375 kg overweight.
 - Oh no!
 
-718
+729
 01:08:39,120 --> 01:08:41,560
 - How much are you?
 - 54 kg.
 
-719
+730
 01:08:41,560 --> 01:08:45,520
 - My beach weight's 75 kg.
 - I'm 73. - What about you, Smocky?
 
-720
+731
 01:08:48,880 --> 01:08:51,280
 Well, how much is it?
 
-721
+732
 01:08:58,000 --> 01:09:00,880
 76 kilo and 375 grams.
 
-722
+733
 01:09:09,840 --> 01:09:11,640
 Smocky?
 
-723
+734
 01:09:18,320 --> 01:09:22,200
 Groans was right.
 I'm just a fat Vulcanette.
 
-724
+735
 01:09:37,800 --> 01:09:40,400
 Thanks for everything.
 
-725
+736
 01:09:44,440 --> 01:09:47,320
 They found us.
 
-726
+737
 01:09:51,480 --> 01:09:54,360
 Take this. Whenever you're lonely,
 
-727
+738
 01:09:56,240 --> 01:09:59,120
 just press it.
 
-728
+739
 01:10:05,280 --> 01:10:07,880
 Don't go!
 
-729
+740
 01:10:08,800 --> 01:10:12,800
 - You have to go now.
 - How could I, without you?
 
-730
+741
 01:10:13,720 --> 01:10:18,920
 - I'll stay with you.
 - No, you have to win the Miss Waikiki contest.
 
-731
+742
 01:10:19,360 --> 01:10:21,160
 Smocky!
 
-732
+743
 01:10:21,480 --> 01:10:24,480
 I'll always be with you, captain.
 
-733
+744
 01:10:29,600 --> 01:10:33,600
 You're the bravest Vulcanette in the world!
 
-734
+745
 01:10:36,400 --> 01:10:38,200
 Farewell!
 
-735
+746
 01:10:39,640 --> 01:10:42,240
 Gotta run.
 
-736
+747
 01:11:18,680 --> 01:11:21,960
 And you expect us to believe that story?
 
-737
+748
 01:11:23,040 --> 01:11:26,040
 So you are a time traveller.
 
-738
+749
 01:11:31,920 --> 01:11:34,920
 And you came from the year 2304
 
-739
+750
 01:11:37,160 --> 01:11:40,000
 to save the world.
 
-740
+751
 01:11:40,080 --> 01:11:42,960
 What do you think, Mr. Oilfield?
 
-741
+752
 01:11:51,240 --> 01:11:55,680
 - Sir, he's telling the truth.
 - Are you sure, Mr. Cornfield?
 
-742
+753
 01:11:55,760 --> 01:11:59,920
 - Yes, Mr. Wheatfield. The lie
 detector confirms it. He can fool us
 
-743
+754
 01:12:00,000 --> 01:12:03,400
 - but he can't fool the machine.
 - Please, Mrs. Ricefield.
 
-744
+755
 01:12:03,480 --> 01:12:06,480
 Mr. Smock. Your story sounds truly...
 
-745
+756
 01:12:08,720 --> 01:12:11,720
 - unbelievable.
 - Geez, really.
 
-746
+757
 01:12:11,800 --> 01:12:16,400
 But can you prove to us
 that you are from the future?
 
-747
+758
 01:12:23,400 --> 01:12:27,400
 - What the hell is that?
 - Oh geez, I had forgotten about that!
 
-748
+759
 01:12:29,240 --> 01:12:32,240
 I've never seen anything like it!
 
-749
+760
 01:12:33,640 --> 01:12:37,120
 - It vibrates when it gets hot.
 - Yes, General.
 
-750
+761
 01:12:37,200 --> 01:12:41,200
 - A clinical thermometer with vibration.
 - That's proof.
 
-751
+762
 01:12:42,880 --> 01:12:45,880
 This man does indeed come from the future.
 
-752
+763
 01:13:05,520 --> 01:13:07,680
 What is that?
 
-753
+764
 01:13:07,760 --> 01:13:10,400
 Surprise!
 
-754
+765
 01:13:38,600 --> 01:13:41,600
 - Welcome home, captain!
 - What?
 
-755
+766
 01:13:42,400 --> 01:13:46,920
 This is impossible....
 You were just... I mean... you were...
 
-756
+767
 01:13:47,000 --> 01:13:51,000
 - Why are you here?
 - Well, you never believed me, did you!
 
-757
+768
 01:13:53,000 --> 01:13:55,560
 Galapagos turtle!
 
-758
+769
 01:13:55,640 --> 01:13:58,640
 Yesterday was my 335th birthday!
 
-759
+770
 01:13:58,720 --> 01:14:02,680
 Three...! You haven't changed a bit!
 No grey hair...
 
-760
+771
 01:14:02,760 --> 01:14:06,720
 - no cellulite in your face! Nothing!
 - Yes. Wasn't cheap though.
 
-761
+772
 01:14:06,800 --> 01:14:10,000
 So you... waited for me for 300 years?
 
-762
+773
 01:14:10,080 --> 01:14:13,080
 Yes. But I made good use of that time.
 
-763
+774
 01:14:22,920 --> 01:14:25,800
 Isn't it beautiful?
 
-764
+775
 01:14:25,960 --> 01:14:28,800
 How did you do that?
 
-765
+776
 01:14:28,880 --> 01:14:32,760
 I sold our cheese cake recipe
 to McDonald's.
 
-766
+777
 01:14:37,880 --> 01:14:42,000
 Captain's log no. 1 of our
 Traumschiff Surprise, Captain Kork.
 
-767
+778
 01:14:42,080 --> 01:14:46,160
 Saved the world once more.
 By destroying the UFO in 2004
 
-768
+779
 01:14:46,240 --> 01:14:50,280
 we changed the future.
 Mars was never colonized,
 
-769
+780
 01:14:50,360 --> 01:14:54,360
 and Mr. Smock has refurbished
 Earth during the last 300 years.
 
-770
+781
 01:14:54,440 --> 01:14:57,440
 Now nothing can stop us!
 
-771
+782
 01:14:57,686 --> 01:15:00,857
 <i>'Cause we're so pretty</i>
 
-772
+783
 01:15:00,858 --> 01:15:07,443
 <i>and so canny and so slim and so slender</i>
 <i>We'll be Miss Waikiki!</i>
 
-773
+784
 01:15:08,200 --> 01:15:12,040
 <i>And shower to the left!</i>
 <i>And shower to the right!</i>
 
-774
+785
 01:15:12,400 --> 01:15:16,000
 <i>And don't forget the soap!</i>
 <i>One more time!</i>
 
-775
+786
 01:15:16,600 --> 01:15:20,480
 <i>And five, six, seven, eight</i>
 <i>Five, six, seven, eight</i>
 
-776
+787
 01:15:20,560 --> 01:15:24,320
 <i>And touch and push!</i>
 <i>And touch and push!</i>
 
-777
+788
 01:15:24,560 --> 01:15:28,280
 <i>And towel to the left!</i>
 <i>And towel to the right!</i>
 
-778
+789
 01:15:28,560 --> 01:15:32,680
 <i>And don't forget the willy!</i>
 <i>Dry the willy to the beat!</i>
 
-779
+790
 01:15:43,840 --> 01:15:46,840
 You can count on me, daddy.
 
-780
+791
 01:15:53,120 --> 01:15:57,040
 I'm a Vulcanette vulgaris.
 We can be up to 400 years old because we are
 
-781
+792
 01:15:57,120 --> 01:15:59,880
 a type of Galapapago...
 
-782
+793
 01:15:59,960 --> 01:16:02,560
 I'm a...
 
-783
+794
 01:16:10,280 --> 01:16:13,240
 This thing farts!
 
-784
+795
 01:16:13,440 --> 01:16:17,440
 Sure. I'll snaff them
 out with my snaffledidap.
 
-785
+796
 01:16:19,160 --> 01:16:20,760
 Yes!
 
-786
+797
 01:16:22,800 --> 01:16:26,400
 - Klaus Kinski?
 - Yes. I'm hovering. Come up.
 
-787
+798
 01:16:27,240 --> 01:16:31,160
 Sure, Dad. Shoe
 can count on me.... shshshsh...
 
-788
+799
 01:16:31,240 --> 01:16:35,240
 - I am Hermes, messenger of the Gods.
 - And whahamaminib?
 
-789
+800
 01:16:35,480 --> 01:16:39,480
 They travelled to the past to
 erararara...
 
-790
+801
 01:16:40,280 --> 01:16:43,280
 Rrrrrr! Rrrrrr!
 I miss my moped.
 
-791
+802
 01:16:43,360 --> 01:16:47,360
 - I used to be on the hovering club!
 - On?
 
-792
+803
 01:16:47,600 --> 01:16:52,000
 I made my license in freestyle hovering
 when I washwei... shwe....
 
-793
+804
 01:16:52,080 --> 01:16:54,680
 shwiba... hi there!
 
-794
+805
 01:16:55,480 --> 01:16:59,400
 ...when I was 12,
 and I won the Federal Cross of Merit
 
-795
+806
 01:16:59,480 --> 01:17:03,480
 at the national youth hovering con...
 - Federal Cross?
 
-796
+807
 01:17:03,960 --> 01:17:07,960
 - Put that pipe away!
 - I am Hermes, messenger of the Gods!
 
-797
+808
 01:17:15,960 --> 01:17:18,080
 <i>High, High, High-Ti-Tigh,</i>
 
-798
+809
 01:17:19,960 --> 01:17:22,960
 <i>Space-Taxi to the sky.</i>
 
-799
+810
 01:17:24,200 --> 01:17:26,520
 <i>High, High, High-Ti-Tigh,</i>
 
-800
+811
 01:17:28,200 --> 01:17:31,440
 <i>Space-Taxi to the sky.</i>
 
-801
+812
 01:17:31,800 --> 01:17:32,560
 <i>Come on.</i>
 
-802
+813
 01:17:32,640 --> 01:17:34,360
 <i>... My little heart... </i>
 <i>... so hot... </i>
 
-803
+814
 01:17:34,440 --> 01:17:36,440
 <i>... spread your legs apart... </i>
 <i> Check it out!</i>
 
-804
+815
 01:17:36,480 --> 01:17:40,200
 <i>... now let's start the show!</i>
 <i>Eenie meenie miny moe!</i>
 
-805
+816
 01:17:41,080 --> 01:17:43,120
 <i>High, High, High-Ti-Tigh,</i>
 
-806
+817
 01:17:45,040 --> 01:17:48,160
 <i>Space-Taxi to the sky.</i>
 
-807
+818
 01:17:48,560 --> 01:17:50,360
 I...
 
-808
+819
 01:17:51,400 --> 01:17:54,400
 - I forgot to pack my bra.
 - Here.
 
-809
+820
 01:17:55,320 --> 01:17:57,920
 Take m...
 
-810
+821
 01:17:59,720 --> 01:18:02,600
 William is a sorcerer!
 
-811
+822
 01:18:03,720 --> 01:18:06,600
 Sorry, mouth full.
 
-812
+823
 01:18:07,520 --> 01:18:10,520
 Do you want to make me happy?
 
-813
+824
 01:18:10,800 --> 01:18:11,800
 Yes, definitely!
 
-814
+825
 01:18:14,640 --> 01:18:17,640
 My nose went up!
 
-815
+826
 01:18:18,760 --> 01:18:23,360
 Sir Further-Winston-Fattenberry of
 West Firstwhistle-Minster-Shatwood Castle,
 
-816
+827
 01:18:23,440 --> 01:18:26,040
 Third Count of... Fuck!
 
-817
+828
 01:18:28,680 --> 01:18:29,880
 Fuck, hey!
 
-818
+829
 01:18:36,400 --> 01:18:40,280
 There are plenty of people who'd lovuff...
 
-819
+830
 01:18:40,360 --> 01:18:44,360
 There are plenty of people who'd lovuff...
 
-820
+831
 01:18:46,320 --> 01:18:50,920
 There are plenty of people who'd lovuff... sorry!
 
-821
+832
 01:18:52,920 --> 01:18:55,400
 There are plenty...
 
-822
+833
 01:19:09,000 --> 01:19:12,800
 Do you even know who I am?
 I am Captain Juergen Thorsten Kork from the
 
-823
+834
 01:19:12,880 --> 01:19:15,600
 Planet of the Apes. Sorry.
 
-824
+835
 01:19:16,400 --> 01:19:22,120
 Bring me a Quattro staggioni, okay?
 And turn that stupid music off.
 
-825
+836
 01:22:37,480 --> 01:22:41,600
 Now, be honest, Smocky.
 Didn't you get incredibly bored
 
-826
+837
 01:22:41,680 --> 01:22:44,680
 without me during the last 300 years?
 
-827
+838
 01:22:45,360 --> 01:22:49,080
 Oh well, I had a little lie-in...
 
-828
+839
 01:22:49,160 --> 01:22:51,960
 - visited my relatives
 - That's nice.
 
-829
+840
 01:22:52,040 --> 01:22:56,040
 - I did my tax return.
 - Yes, that's important.
 
-830
+841
 01:22:59,280 --> 01:23:02,160
 And then I won bronze...
 
-831
+842
 01:23:03,080 --> 01:23:07,480
 at the Olympic Games of 2068
 in the ladies team showering.
 
-832
+843
 01:23:07,560 --> 01:23:11,560
 Oh, really! Our Smocky has
 always been an ace, hasn't he?
 
-833
+844
 01:23:14,240 --> 01:23:18,200
 - What's up, Spotty?
 - Captain, I beamed someone up.
 
-834
+845
 01:23:18,280 --> 01:23:23,400
 - He wants to join in with us!
 - Send him up. He'll get some cheese cake, too!
 
-835
+846
 01:23:23,480 --> 01:23:26,360
 Aye aye, my captain!
 
-836
+847
 01:23:26,720 --> 01:23:29,520
 Well, who could it be!
 
-837
+848
 01:23:29,600 --> 01:23:32,600
 Come in! 
 
-838
+849
 01:23:32,880 --> 01:23:36,880
 - Servus!
 - Voil�! Anyone need a pearl diver?
 
-839
+850
 01:23:38,400 --> 01:23:42,000
 Fascinating.
 
